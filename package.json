@@ -1,0 +1,24 @@
+{
+  "name": "jenktest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FreakillGod/jenktest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FreakillGod/jenktest/issues"
+  },
+  "homepage": "https://github.com/FreakillGod/jenktest#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
